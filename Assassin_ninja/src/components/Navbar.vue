@@ -13,7 +13,7 @@
        <v-app-bar clipped app>
         <v-app-bar-nav-icon class="grey--text" @click="drawer = !drawer"></v-app-bar-nav-icon>
          <v-toolbar-title class="text-uppercase grey--text">
-         <span>NINJA GAME FIXER</span>
+         <span>NINJA GAME FIXR</span>
          </v-toolbar-title>
          <v-spacer></v-spacer>
 
